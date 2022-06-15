@@ -1,5 +1,5 @@
 # Background
-I learned nodes and lists in a course offered at my high school. These are programs I wrote answering the prompt given. 
+I learned nodes and lists in a course offered at my high school. 
 
 These are the courses I took:  
 ```mermaid
@@ -18,3 +18,5 @@ A(Intro to Programming) --> B(AP Computer Science A) --> C(AP Computer Science P
 * how to remove a node
 * how to manipulate linkedlists using nodes
 * ...
+
+> <p> This repo includes severals projects I worked on using what I learned. </p>
